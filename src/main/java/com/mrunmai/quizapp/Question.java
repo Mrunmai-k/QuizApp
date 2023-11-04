@@ -10,7 +10,6 @@ import lombok.Data;
 @Entity
 public class Question {
     @Id
-    @GeneratedValue(strategy = GenerationType.SEQUENCE)
     private int id;
     private String category;
     private String difficulty;
