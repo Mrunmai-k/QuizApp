@@ -1,5 +1,6 @@
-package com.mrunmai.quizapp;
+package com.mrunmai.quizapp.controller;
 
+import com.mrunmai.quizapp.model.Question;
 import com.mrunmai.quizapp.service.QuestionService;
 
 import java.util.List;

@@ -9,8 +9,8 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.web.bind.annotation.RequestBody;
 
-import com.mrunmai.quizapp.Question;
 import com.mrunmai.quizapp.dao.QuestionDao;
+import com.mrunmai.quizapp.model.Question;
 
 @Service
 public class QuestionService {

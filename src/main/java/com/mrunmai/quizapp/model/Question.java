@@ -1,4 +1,4 @@
-package com.mrunmai.quizapp;
+package com.mrunmai.quizapp.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
